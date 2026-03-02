@@ -1,1 +1,1 @@
-# Jusst a bunch of Dart exercises
+# Just a bunch of Dart exercises
